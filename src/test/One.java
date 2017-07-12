@@ -7,7 +7,7 @@ public class One {
 
     int x =0;
     int y = 0;
-
+    int z = 0;
 
     public int sum(int x,int y){return x+y;}
 }
